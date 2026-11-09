@@ -26,3 +26,5 @@ Add more questions.
 Add different difficulty levels.
 Randomise the order of questions.
 Allow users to choose quiz categories.
+
+  aloha!
