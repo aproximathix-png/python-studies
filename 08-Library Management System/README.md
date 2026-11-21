@@ -1,0 +1,1 @@
+A command-line Library Management System built with Python using Object-Oriented Programming (OOP). Took way to long and was confusing to navigate at some point when you needed to use thing together but it way better than the api project at least, what the programme can do is pretty straighforward.         Aloha!
